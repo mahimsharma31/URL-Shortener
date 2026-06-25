@@ -63,7 +63,7 @@ Include JWT token in header:
 
 ## ⚙️ Setup & Run
 
-1. Clone the repository:https://github.com/Vaibhavsrivastava1/UrlShortener
+1. Clone the repository:https://github.com/mahimsharma31/URL-Shortener
 2. Configure database in `application.properties`
 3. Run the application:
    
